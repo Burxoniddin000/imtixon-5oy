@@ -4,14 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "autoprefixer": "10.4.14",
-    "build": "^0.1.4",
-    "build-react-npm": "^0.3.4",
     "eslint": "8.37.0",
     "eslint-config-next": "13.3.0",
     "next": "^13.3.0",
